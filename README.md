@@ -148,16 +148,3 @@ This enables **scalable monitoring of multiple printers** from a single AI servi
 - Automated job restart after recovery
 
 ---
-
-## License
-
-Add your preferred open‑source license here.
-
----
-
-## Author
-
-**Sabir Hossain**  
-Robotics and AI Engineer  
-
-Focused on **autonomous monitoring, cloud robotics, and intelligent manufacturing systems**.
