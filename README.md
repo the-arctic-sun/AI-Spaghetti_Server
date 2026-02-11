@@ -8,7 +8,7 @@
 2. Copy the MAR file in the directory:
 ```
     cd AI-Spaghetti_Server/AI_Model/
-    wget -c http://bashupload.com/4E4zc/3sBxF.mar -O solutions_model.mar
+    wget -c http://~~~~//~~.mar -O solutions_model.mar
     cd ..
 ```
 
