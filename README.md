@@ -13,7 +13,7 @@ This repository provides a **production‑ready AI microservice** that:
 - Detects spaghetti‑type failures using deep learning
 - Serves the model through **TorchServe**
 - Runs inside a **Docker container with GPU support**
-- Sends **pause/stop commands** to a 3D printer controller on a **Raspberry Pi**
+- Sends **pause/stop commands** to a 3D printer controller (**OctoPrint**) on a **Raspberry Pi**
 - Can be deployed easily on **AWS cloud infrastructure**
 
 The goal is **fully automated monitoring and protection** of long or remote 3D printing jobs.
